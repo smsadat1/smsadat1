@@ -1,16 +1,24 @@
-## Hi there 👋
+# S.M SADAT
+## Backend Engineer (Distributed Sytems & APIs)
 
-<!--
-**smsadat1/smsadat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domain                         | Technologies                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| Language                       | Python, C, C++                                                               |
+| Frameworks & APIs              | Django, FastAPI, Starlette, REST, gRPC, WebSockets                           |
+| Distributed Systems & Infra    | Redis, Celery, RabbitMQ, Kafka, PostgreSQL, SQLite                           |
+| Security & Architecture        | JWT, OAuth2, CORS, Microservices, Modular Monolith, gVisor, seccomp          |
+| DevOps & Production            | Docker, Docker Compose, GitHub Actions, Linux, Nginx                         |
+| Observability                  | Prometheus, Grafana, Loki, Promtail                                          |
+
+
+## Education
+B.Sc. Computer Science & Engineering
+United International University, Dhaka (Ongoing)
+
+## Contact
+🔗 [LinkedIn](https://www.linkedin.com/in/sm-sadat-461755369?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+📍 Dhaka, Bangladesh
+Open to backend engineering contracts and building production systems for startups.
