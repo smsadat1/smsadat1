@@ -7,16 +7,15 @@
   <img src="https://img.shields.io/badge/Location-Dhaka,%20BD-008080?style=for-the-badge" />
 </p>
 
----
 
 ### Technical Stack
 
 **Languages** <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,go,c,cpp,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=py,go,c,cpp,bash" />
 </p>
 
-**Backend & APIs** <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,rest,grpc,websocket,graphql" />
+**Backend & Databases** <p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,graphql,postgres,sqlite,mysql" />
 </p>
 
 **Distributed Systems & Messaging**  <p align="left">
@@ -31,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
----
 
 ### Engineering Highlights
 
@@ -47,8 +45,6 @@
 **Media Processing API**
 > Published a modular **PyPI package** for streaming media transformation using custom FFmpeg pipeline abstractions.
 
----
-
 ### Achievements
 * **2nd Runner Up** | UIU Beatcode 261 (2026)
 * **Top 5** | UIU Freshers Coding Challenge (2025)
@@ -56,12 +52,3 @@
 
 ---
 
-### GitHub Insights
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=smsadat1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsadat1&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <b>Solving problems at the intersection of scale and security.</b>
-</p>
