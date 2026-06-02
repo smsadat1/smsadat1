@@ -1,4 +1,4 @@
-# ⚡ S.M. Nazmus Sadat
+# S.M. Nazmus Sadat
 **Backend & Distributed Systems Engineer**
 
 <p align="left">
@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 **Languages** <p align="left">
   <img src="https://skillicons.dev/icons?i=py,go,c,cpp,mysql,bash" />
@@ -19,11 +19,11 @@
   <img src="https://skillicons.dev/icons?i=fastapi,django,rest,grpc,websocket,graphql" />
 </p>
 
-**Distributed Systems & Messaging**
+**Distributed Systems & Messaging**  <p align="left">
   <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,celery" />
 </p>
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure**  <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,nginx,githubactions" />
 </p>
 
