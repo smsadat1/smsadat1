@@ -1,5 +1,5 @@
 # ⚡ S.M. Nazmus Sadat
-**Backend Architect | Distributed Systems & Security Researcher**
+**Backend & Distributed Systems Engineer**
 
 <p align="left">
   <a href="https://linkedin.com/in/sm-sadat-461755369"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 ### 🛠️ Technical Stack
 
 **Languages & Core** <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=py,go,c,cpp,mysql,bash" />
 </p>
 
 **Backend & Distributed Systems** <p align="left">
