@@ -11,16 +11,24 @@
 
 ### 🛠️ Technical Stack
 
-**Languages & Core** <p align="left">
+**Languages** <p align="left">
   <img src="https://skillicons.dev/icons?i=py,go,c,cpp,mysql,bash" />
 </p>
 
-**Backend & Distributed Systems** <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,redis,kafka,rabbitmq" />
+**Backend & APIs** <p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,rest,grpc,websocket,graphql" />
 </p>
 
-**Infrastructure & Security** <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,prometheus,grafana" />
+**Distributed Systems & Messaging**
+  <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,celery" />
+</p>
+
+**Cloud & Infrastructure**
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,nginx,githubactions" />
+</p>
+
+**Monitoring & Observability** <p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
 ---
