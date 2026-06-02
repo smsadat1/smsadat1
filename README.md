@@ -1,5 +1,5 @@
 # S.M. Nazmus Sadat
-**Backend & Distributed Systems Engineer**
+**Backend Engineer | Distributed Systems & Cloud Infrastructure**
 
 <p align="left">
   <a href="https://linkedin.com/in/sm-sadat-461755369"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,6 +28,10 @@
 
 **Monitoring & Observability** <p align="left">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+**Frontend & UI** <p align="left">
+  <img src="https://skillicons.dev/icons?i=alpinejs,tailwindcss" />
 </p>
 
 
